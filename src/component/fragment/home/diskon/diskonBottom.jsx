@@ -2,7 +2,7 @@ import Img from "../../../element/img";
 
 const items = [
   {
-    src: "/public/image/diskon-2webp.jpg",
+    src: "/public/static/images/diskon-2webp.jpg",
     price: "Rp85.000",
     originalPrice: "Rp 222.000",
     discount: "61%",
@@ -10,7 +10,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-3webp.jpg",
+    src: "/public/static/images/diskon-3webp.jpg",
     price: "Rp24.500",
     originalPrice: "Rp 52.000",
     discount: "71%",
@@ -18,7 +18,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-4webp.jpg",
+    src: "/public/static/images/diskon-4webp.jpg",
     price: "Rp10.000",
     originalPrice: "Rp 25.000",
     discount: "67%",
@@ -26,7 +26,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-5webp.jpg",
+    src: "/public/static/images/diskon-5webp.jpg",
     price: "Rp563.000",
     originalPrice: "Rp 1.250.000",
     discount: "77%",
@@ -34,7 +34,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-6webp.jpg",
+    src: "/public/static/images/diskon-6webp.jpg",
     price: "Rp154.000",
     originalPrice: "Rp 250.000",
     discount: "59%",
@@ -42,7 +42,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-7webp.jpg",
+    src: "/public/static/images/diskon-7webp.jpg",
     price: "Rp2.000",
     originalPrice: "Rp 5.000",
     discount: "53%",
@@ -50,7 +50,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-8webp.jpg",
+    src: "/public/static/images/diskon-8webp.jpg",
     price: "Rp63.000",
     originalPrice: "Rp 120.000",
     discount: "80%",
@@ -58,7 +58,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-9webp.jpg",
+    src: "/public/static/images/diskon-9webp.jpg",
     price: "Rp13.000",
     originalPrice: "Rp 25.000",
     discount: "88%",
@@ -66,7 +66,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-10webp.jpg",
+    src: "/public/static/images/diskon-10webp.jpg",
     price: "Rp1.500",
     originalPrice: "Rp 4.000",
     discount: "59%",
@@ -74,7 +74,7 @@ const items = [
     progress: 80,
   },
   {
-    src: "/public/image/diskon-11webp.jpg",
+    src: "/public/static/images/diskon-11webp.jpg",
     price: "Rp55.000",
     originalPrice: "Rp 25.000",
     discount: "78%",
@@ -87,7 +87,7 @@ const DiskonBottom = () => {
   return (
     <div className="flex">
       <div className="sm:w-[370px] w-[1050px] h-[280px] color-costom mr-4 xl:flex hidden justify-center items-start p-4 rounded-lg">
-        <Img src="/public/image/diskon-1.webp" className="w-[130px] h-[280px]" />
+        <Img src="/public/static/images/diskon-1.webp" className="w-[130px] h-[280px]" />
       </div>
 
       <div className="overflow-x-auto whitespace-nowrap ">

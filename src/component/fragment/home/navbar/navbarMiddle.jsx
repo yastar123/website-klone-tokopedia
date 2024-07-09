@@ -25,7 +25,7 @@ const NavbarMiddle = ({ onClick }) => {
   return (
     <div className="hidden sm:flex sm:py-3 py-2 px-4 font-sans sm:justify-between">
       <div className="hidden sm:flex">
-        <Img src="/image/tkp-logo.png" className="xl:w-44 sm:w-15" />
+        <Img src="/public/static/images/tkp-logo.png" className="xl:w-44 sm:w-15" />
       </div>
       <div className="py-1.5 rounded-md hover:bg-slate-200 text-center text-slate-800 hidden sm:flex">
         <Button className={"px-2"}>Kategori</Button>

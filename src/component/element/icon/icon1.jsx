@@ -6,35 +6,35 @@ const Icon1 = () => {
     {
       id: 1,
       text: "Belanja 2 Jam Tiba",
-      iconSrc: "/public/image/icon-1.png",
+      iconSrc: "/public/static/images/icon-1.png",
     },
     {
       id: 2,
       text: "Kategori",
-      iconSrc: "/public/image/icon-2.png",
+      iconSrc: "/public/static/images/icon-2.png",
     },
     {
       id: 3,
       text: "Handphone & Tablet",
-      iconSrc: "/public/image/icon-3.png",
+      iconSrc: "/public/static/images/icon-3.png",
     },
     {
       id: 4,
       text: "Top-UP & Tagihan",
-      iconSrc: "/public/image/icon-4.png",
+      iconSrc: "/public/static/images/icon-4.png",
     },
     {
       id: 5,
       text: "Elektronik",
-      iconSrc: "/public/image/icon-5.png",
+      iconSrc: "/public/static/images/icon-5.png",
     },
     {
       id: 6,
       text: "Perawatan Hewan",
-      iconSrc: "/public/image/icon-6.png",
+      iconSrc: "/public/static/images/icon-6.png",
     },
-    { id: 7, text: "Keuangan", iconSrc: "/public/image/icon-8.png" },
-    { id: 8, text: "Penerbangan", iconSrc: "/public/image/icon-7.png" },
+    { id: 7, text: "Keuangan", iconSrc: "/public/static/images/icon-8.png" },
+    { id: 8, text: "Penerbangan", iconSrc: "/public/static/images/icon-7.png" },
   ];
   return (
     <div

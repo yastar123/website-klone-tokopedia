@@ -4,42 +4,42 @@ import Button from "../../../element/button";
 
 const products = [
   {
-    src: "/public/image/trending-1.webp",
+    src: "/public/static/images/trending-1.webp",
     title: "Kulkas 2 Pintu",
     description: "749rb produk",
   },
   {
-    src: "/public/image/trending-2.webp",
+    src: "/public/static/images/trending-2.webp",
     title: "Celana Pria",
     description: "398rb produk",
   },
   {
-    src: "/public/image/trending-3.webp",
+    src: "/public/static/images/trending-3.webp",
     title: "Redmi Note 10",
     description: "112rb produk",
   },
   {
-    src: "/public/image/trending-4.webp",
+    src: "/public/static/images/trending-4.webp",
     title: "Iphone 12",
     description: "231rb produk",
   },
   {
-    src: "/public/image/trending-5.webp",
+    src: "/public/static/images/trending-5.webp",
     title: "Ps 4",
     description: "30rb produk",
   },
   {
-    src: "/public/image/trending-6.webp",
+    src: "/public/static/images/trending-6.webp",
     title: "Mesin Cuci",
     description: "128rb produk",
   },
   {
-    src: "/public/image/trending-7.webp",
+    src: "/public/static/images/trending-7.webp",
     title: "Headset Gaming",
     description: "216rb produk",
   },
   {
-    src: "/public/image/trending-8.webp",
+    src: "/public/static/images/trending-8.webp",
     title: "Susu Bubuk",
     description: "36rb produk",
   },

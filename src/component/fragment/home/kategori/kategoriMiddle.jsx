@@ -10,12 +10,12 @@ const KategoriMiddle = () => {
   const [containerWidth, setContainerWidth] = useState(0);
 
   const images = [
-    { src: "/public/image/kategori-1.webp", alt: "Hero 1" },
-    { src: "/public/image/kategori-2.webp", alt: "Hero 2" },
-    { src: "/public/image/kategori-3.webp", alt: "Hero 3" },
-    { src: "/public/image/kategori-4.webp", alt: "Hero 4" },
-    { src: "/public/image/kategori-5.webp", alt: "Hero 5" },
-    { src: "/public/image/kategori-6.webp", alt: "Hero 6" },
+    { src: "/public/static/images/kategori-1.webp", alt: "Hero 1" },
+    { src: "/public/static/images/kategori-2.webp", alt: "Hero 2" },
+    { src: "/public/static/images/kategori-3.webp", alt: "Hero 3" },
+    { src: "/public/static/images/kategori-4.webp", alt: "Hero 4" },
+    { src: "/public/static/images/kategori-5.webp", alt: "Hero 5" },
+    { src: "/public/static/images/kategori-6.webp", alt: "Hero 6" },
   ];
 
   const categories = [

@@ -11,7 +11,7 @@ const BayarDiTempat = () => {
   const images = [
       {
         id: 1,
-        src: "/src/assets/image/bayarDiTempat-1.png",
+        src: "/public/static/images/bayarDiTempat-1.png",
         text: "LIGER Handsfree headset earphone L-10 METAL stereo & bass",
         price: "Rp75.000",
         location: "Jakarta",
@@ -20,7 +20,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 2,
-        src: "/src/assets/image/bayarDiTempat-2.png",
+        src: "/public/static/images/bayarDiTempat-2.png",
         text: "kaos import lengan pendek pria | baju pria import polos kaos",
         price: "Rp80.000",
         location: "Surabaya",
@@ -29,7 +29,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 3,
-        src: "/src/assets/image/bayarDiTempat-3.png",
+        src: "/public/static/images/bayarDiTempat-3.png",
         text: "kaos cowok tribal lengan pendek navy / baju kaos pria motif tribal",
         price: "Rp120.000",
         location: "Bandung",
@@ -38,7 +38,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 4,
-        src: "/src/assets/image/bayarDiTempat-4.png",
+        src: "/public/static/images/bayarDiTempat-4.png",
         text: "Ellipsesinc - Kaos Oversize Pria Wanita Polos",
         price: "Rp90.000",
         location: "Yogyakarta",
@@ -47,7 +47,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 5,
-        src: "/src/assets/image/bayarDiTempat-5.png",
+        src: "/public/static/images/bayarDiTempat-5.png",
         text: "Ellipsesinc - Kaos Oversize Pria Wanita NY",
         price: "Rp70.000",
         location: "Semarang",
@@ -56,7 +56,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 6,
-        src: "/src/assets/image/bayarDiTempat-6.png",
+        src: "/public/static/images/bayarDiTempat-6.png",
         text: "HIPPO ORIGINAL HIP HANDSFEE UNIVERSAL BASS POWERFUL",
         price: "Rp85.000",
         location: "Medan",
@@ -65,7 +65,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 7,
-        src: "/src/assets/image/bayarDiTempat-7.png",
+        src: "/public/static/images/bayarDiTempat-7.png",
         text: "baju kaos hitam lengan pendek / baju kaos ditro hitam",
         price: "Rp150.000",
         location: "Bali",
@@ -74,7 +74,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 8,
-        src: "/src/assets/image/pencarian-8.jpg",
+        src: "/public/static/images/pencarian-8.jpg",
         text: "Ocean Breeze Parfum Unisex 50ML",
         price: "Rp65.000",
         location: "Makassar",
@@ -83,7 +83,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 9,
-        src: "/src/assets/image/pencarian-9.jpg",
+        src: "/public/static/images/pencarian-9.jpg",
         text: "Vanilla Essence Parfum Wanita 75ML",
         price: "Rp95.000",
         location: "Palembang",
@@ -92,7 +92,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 10,
-        src: "/src/assets/image/pencarian-10.jpg",
+        src: "/public/static/images/pencarian-10.jpg",
         text: "Woodland Musk Parfum Pria 100ML",
         price: "Rp140.000",
         location: "Malang",
@@ -101,7 +101,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 11,
-        src: "/src/assets/image/pencarian-11.jpg",
+        src: "/public/static/images/pencarian-11.jpg",
         text: "Tropical Bliss Parfum Unisex 50ML",
         price: "Rp70.000",
         location: "Lampung",
@@ -110,7 +110,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 12,
-        src: "/src/assets/image/pencarian-12.jpg",
+        src: "/public/static/images/pencarian-12.jpg",
         text: "Classic Charm Parfum Wanita 100ML",
         price: "Rp130.000",
         location: "Bogor",
@@ -119,7 +119,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 13,
-        src: "/src/assets/image/pencarian-13.jpg",
+        src: "/public/static/images/pencarian-13.jpg",
         text: "Energetic Sport Parfum Pria 75ML",
         price: "Rp85.000",
         location: "Bekasi",
@@ -128,7 +128,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 14,
-        src: "/src/assets/image/pencarian-14.jpg",
+        src: "/public/static/images/pencarian-14.jpg",
         text: "Romantic Rose Parfum Wanita 50ML",
         price: "Rp75.000",
         location: "Depok",
@@ -137,7 +137,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 15,
-        src: "/src/assets/image/pencarian-15.jpg",
+        src: "/public/static/images/pencarian-15.jpg",
         text: "Mystic Oud Parfum Pria 100ML",
         price: "Rp160.000",
         location: "Tangerang",
@@ -146,7 +146,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 16,
-        src: "/src/assets/image/pencarian-16.jpg",
+        src: "/public/static/images/pencarian-16.jpg",
         text: "Summer Vibes Parfum Unisex 75ML",
         price: "Rp110.000",
         location: "Pekanbaru",
@@ -155,7 +155,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 17,
-        src: "/src/assets/image/pencarian-17.jpg",
+        src: "/public/static/images/pencarian-17.jpg",
         text: "Midnight Glam Parfum Wanita 100ML",
         price: "Rp145.000",
         location: "Bandar Lampung",
@@ -164,7 +164,7 @@ const BayarDiTempat = () => {
       },
       {
         id: 18,
-        src: "/src/assets/image/pencarian-18.jpg",
+        src: "/public/static/images/pencarian-18.jpg",
         text: "Urban Cool Parfum Pria 50ML",
         price: "Rp70.000",
         location: "Samarinda",

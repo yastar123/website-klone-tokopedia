@@ -1,12 +1,12 @@
 import Img from "../../../element/img";
 
 const products = [
-  { id: 1, brand: "Telkomsel", image: "/public/image/pulsa-2.jpg" },
-  { id: 2, brand: "XL", image: "/public/image/pulsa-3.jpg" },
-  { id: 3, brand: "Indosat", image: "/public/image/pulsa-4.jpg" },
-  { id: 4, brand: "Axis", image: "/public/image/pulsa-5.jpg" },
-  { id: 5, brand: "Tri", image: "/public/image/pulsa-6.jpg" },
-  { id: 6, brand: "Smartfen", image: "/public/image/pulsa-7.jpg" }
+  { id: 1, brand: "Telkomsel", image: "/public/static/images/pulsa-2.jpg" },
+  { id: 2, brand: "XL", image: "/public/static/images/pulsa-3.jpg" },
+  { id: 3, brand: "Indosat", image: "/public/static/images/pulsa-4.jpg" },
+  { id: 4, brand: "Axis", image: "/public/static/images/pulsa-5.jpg" },
+  { id: 5, brand: "Tri", image: "/public/static/images/pulsa-6.jpg" },
+  { id: 6, brand: "Smartfen", image: "/public/static/images/pulsa-7.jpg" }
 ];
 
 const PulsaBottom = () => {
