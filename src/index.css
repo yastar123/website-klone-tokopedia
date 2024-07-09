@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img-bg {
+  background-image: url("/public/image/login-bg.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.img-tkp {
+  background-image: url("/public/image/tkp-logo.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.costom-color {
+  text-color: #00aa5b;
+}
+
+.costom-colom {
+  grid-template-columns: 90% 10%;
+}
+
+.costom-border {
+  border-bottom: 1px solid #222;
+}
+
+.hero-container {
+  overflow: hidden; 
+  position: relative;
+}
+
+.hero-image {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  animation: slideLeft 5s infinite;
+}
+
+@keyframes slideLeft {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.color-costom {
+  background-color: rgb(169, 251, 169);
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+@keyframes slideIn {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(100%);
+  }
+}
+
+.translate-y-0 {
+  animation: slideIn 1.5s forwards;
+}
+
+.translate-y-full {
+  animation: slideOut 1.5s forwards;
+}
+
